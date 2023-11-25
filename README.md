@@ -6,31 +6,32 @@ Welcome to my JetBrains IDE settings.
 
 ### Importing these settings
 
-1. Zip these files.
-
-   **macOS**
-
-   ```shell
-   zip -r settings.zip setttings/
-   ```
+1. Download `settings.zip`
 
 2. File > Manage IDE Settings > Import Settings...
 
-3. Select the zip file created in (1).
+3. Select the zip file.
 
 ### Update this repository
 
 1. File > Mange IDE Settings > Export Settings...
 
 2. Uncheck all, then select the following.
-   - 
+   - DefaultFont
+   - IgnoredPluginSuggestions
+   - UI Settings, ProjectViewFileNesting
+   - com.kagof.intellij.plugins.pokeprogress.configuration.PokemonProgressState
 
-3. Export to this repository. _Git ignores the `settings.zip` file._
+3. Click **OK** and then **Overwrite**
 
-4. Unzip and verify the diff.
+4. Export to this repository. _Git ignores the `settings.zip` file._
+
+5. Unzip and verify the diff.
 
    **macOS**
 
    ```shell
-   unzip settings.zip -d settings
+   unzip -o settings.zip -d settings
    ```
+
+6. If the diff is not expected, re-run export.

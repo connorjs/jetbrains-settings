@@ -1,7 +1,15 @@
+com.settler.rider.specflow
+org.toml.lang
+com.intellij.csharpier
 com.kagof.pokeprogress
 PlantUML integration
 com.4lex4.precious-themes-intellij-platform
+com.cppcxy.Intellij-SumnekoLua
+com.intellij.plugin.adernov.powershell
 com.intellij.mermaid
+org.asciidoctor.intellij.asciidoc
+me.seclerp.rider.plugins.efcore
 com.intellij.lang.jsgraphql
 mdx.js
+com.mallowigi
 mobi.hsz.idea.gitignore
