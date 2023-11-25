@@ -2,6 +2,16 @@
 
 Welcome to my JetBrains IDE settings.
 
+## Not used
+
+> **Important**
+>
+> I have switched to JetBrains Settings Sync instead (unfortunately).
+
+Unfortunately, this approach did not work as well as I hoped.
+I will wait for better repository integration in Settings Sync,
+but, for now, I will use JetBrains server settings sync (with limited syncing).
+
 ## Instructions
 
 ### Importing these settings
