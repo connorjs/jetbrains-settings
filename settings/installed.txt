@@ -1,0 +1,7 @@
+com.kagof.pokeprogress
+PlantUML integration
+com.4lex4.precious-themes-intellij-platform
+com.intellij.mermaid
+com.intellij.lang.jsgraphql
+mdx.js
+mobi.hsz.idea.gitignore
